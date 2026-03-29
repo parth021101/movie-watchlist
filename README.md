@@ -18,7 +18,7 @@ A dynamic movie watchlist app built with HTML, SCSS and Vanilla JavaScript.
 - classList add, remove, toggle
 - addEventListener (click, input)
 - Dynamic DOM manipulation
-- Basic logic — duplicate check with loop
+- Basic logic - duplicate check with loop
 
 ## Live Demo
 [View Live](paste your netlify link here)
