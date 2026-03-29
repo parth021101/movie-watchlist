@@ -21,4 +21,4 @@ A dynamic movie watchlist app built with HTML, SCSS and Vanilla JavaScript.
 - Basic logic - duplicate check with loop
 
 ## Live Demo
-<a href="https://movie-valut.netlify.app" target="_blank">View Live</a>
+[View Live](https://movie-valut.netlify.app)
